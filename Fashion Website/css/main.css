@@ -1,0 +1,141 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v3_21 {
+  width: 100%;
+  height: 1009px;
+  background: rgba(234,226,226,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_27 {
+  width: 100%;
+  height: 91px;
+  background: rgba(212,185,185,0.5);
+  opacity: 1;
+  position: absolute;
+  top: 11px;
+  left: 11px;
+  overflow: hidden;
+}
+.v3_29 {
+  width: 110px;
+  height: 60px;
+  background: url("../images/v3_29.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  left: 45px;
+  border: 1px solid rgba(0,0,0,1);
+  overflow: hidden;
+}
+.v3_34 {
+  width: 151px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 31px;
+  left: 585px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v7_2 {
+  width: 92px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 31px;
+  left: 428px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v7_4 {
+  width: 80px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 32px;
+  left: 175px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v7_5 {
+  width: 92px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 31px;
+  left: 316px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_4 {
+  width: 435px;
+  height: 716px;
+  background: url("../images/v3_4.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 314px;
+  left: 570px;
+  overflow: hidden;
+}
+.v3_6 {
+  width: 456px;
+  height: 716px;
+  background: url("../images/v3_6.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 80px;
+  left: 270px;
+  overflow: hidden;
+}
+.v7_19 {
+  width: 410px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 221px;
+  left: 80px;
+  font-family: Inria Serif;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v7_21 {
+  width: 509px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 526px;
+  left: 80px;
+  font-family: Josefin Slab;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: justified;
+}
+.name {
+  color: #fff;
+}
